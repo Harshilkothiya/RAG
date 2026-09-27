@@ -1,0 +1,46 @@
+# HR Policy — Nexora Technologies
+
+**Document ID:** HR-001
+**Effective Date:** January 1, 2026
+
+> This is a fictional document created for testing purposes.
+
+## 1. Working Hours
+
+Employees work from **9:30 AM to 6:30 PM**, Monday to Friday. Lunch break is from **1:00 PM to 2:00 PM**.
+
+## 2. Leave Policy
+
+Employees receive:
+
+* Casual Leave: **8 days/year**
+* Sick Leave: **8 days/year**
+* Earned Leave: **15 days/year**
+
+Earned leave should normally be requested at least **7 days in advance**.
+
+## 3. Work From Home
+
+Eligible employees can request up to **8 WFH days per month** with manager approval.
+
+## 4. Probation
+
+New employees have a standard **6-month probation period**.
+
+## 5. Performance Review
+
+Performance reviews are conducted **twice a year**, normally in **June and December**.
+
+## 6. Resignation
+
+The standard notice period is **60 calendar days**, unless the employment agreement specifies otherwise.
+
+## 7. Workplace Conduct
+
+Employees must maintain professional behavior. Harassment, discrimination, bullying, and unauthorized disclosure of confidential information are prohibited.
+
+## 8. Confidentiality
+
+Employees must protect company information, including customer data, source code, financial information, and internal documents.
+
+**End of Policy**
